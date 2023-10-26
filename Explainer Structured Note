@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .card {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>Card 1: Introduction</h2>
+        <p>You're considering investing in a special kind of financial product called a "Note." This Note is issued by Goldman Sachs Finance Corp. and has a 3-year term. It's linked to the performance of three things: Amazon (AMZN), Alibaba (BABA), and possibly an insurance company called Phoenix.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 2: Potential Rewards</h2>
+        <p>You could earn money through this investment in two ways: Regular interest payments paid to you every three months. If certain conditions are met, you might get your initial investment back earlier than expected.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 3: How It Works</h2>
+        <p>You invest a certain amount of money, let's say $10,000. You'll receive interest payments every three months based on a changing interest rate. If the prices of the things it's linked to (AMZN, BABA, PHOENIX) go up enough at any point during the 3 years, the investment might end early, and you'd get your $10,000 back plus any interest you earned so far.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 4: Example - Early Exit</h2>
+        <p>After 1 year, the prices of AMZN, BABA, and PHOENIX go up a lot, meeting the conditions. The investment "calls" early, and you get your $10,000 back plus the interest earned during that year. Total return: $11,200.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 5: Example - Full Term</h2>
+        <p>If the conditions are not met, you'll stick with the investment for the full 3 years. At the end, you get your $10,000 back, assuming everything goes smoothly. Total return: $10,000 plus interest earned during the 3 years.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 6: Risks</h2>
+        <p>There are some risks involved: If the linked assets (AMZN, BABA, PHOENIX) don't perform well, you might not get the returns you expected. The interest you earn can change if market interest rates change. If Goldman Sachs Finance Corp. faces financial trouble, it could affect your investment.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 7: Recap</h2>
+        <p>This is a unique investment that can provide regular interest income and a chance for an early exit if certain conditions are met. However, it comes with risks, especially related to the performance of the linked assets.</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 8: Consult an Advisor</h2>
+        <p>Before investing in this or any complex investment, it's wise to talk to a financial advisor. They can help you understand if it's a good fit for your financial goals and risk tolerance.</p>
+    </div>
+</body>
+</html>
